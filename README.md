@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there ☝️ ／ こんにちは、皆さん✿
 
 I'm katahiromz, a passionate developer always eager to learn new technologies and improve my skills. Welcome to my GitHub profile!
+
+日本語もそれなりにできます(当たり前やがな)。
 
 ### About Me
 
