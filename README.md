@@ -5,8 +5,7 @@ I'm katahiromz, a passionate developer always eager to learn new technologies an
 ### About Me
 
 - 🔭 I’m currently working on various open-source projects
-- 🌱 I’m currently learning advanced C/C++
-- 💬 Ask me about C/C++ and JavaScript
+- 💬 Ask me about C++/Win32 and JavaScript
 - 📫 How to reach me: katayama.hirofumi.mz@gmail.com
 - 😄 Pronouns: he/him
 
