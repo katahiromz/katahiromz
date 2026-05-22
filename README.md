@@ -17,7 +17,7 @@ I'm katahiromz, a passionate developer always eager to learn new technologies an
 
 ### Top Languages
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katahiromz&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=katahiromz&theme=radical)
 
 ### Projects
 
