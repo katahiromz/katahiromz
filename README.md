@@ -23,9 +23,9 @@ I'm katahiromz, a passionate developer always eager to learn new technologies an
 
 Here are some of the projects I've been working on:
 
-- [ReactOS](https://github.com/reactos/reactos): Opensource and free Windows clone
+- [ReactOS](https://github.com/reactos/reactos): Open-source and free Windows clone
 - [RisohEditor](https://github.com/katahiromz/RisohEditor): Another free Win32 resource editor
-- [XWordGiver](https://github.com/katahiromz/XWordGiver): Powerful Crossword Generator
+- [XWordGiver](https://github.com/katahiromz/XWordGiver): Powerful crossword generator
 
 ### Connect with Me
 
