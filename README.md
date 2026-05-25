@@ -13,11 +13,11 @@ I'm katahiromz, a passionate developer always eager to learn new technologies an
 
 ### GitHub Stats
 
-![katahiromz's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=katahiromz&theme=radical)
+![katahiromz's GitHub stats](https://github-readme-stats.vercel.app/api?username=katahiromz&show_icons=true&theme=radical)
 
 ### Top Languages
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=katahiromz&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katahiromz&layout=compact&theme=radical)
 
 ### Projects
 
