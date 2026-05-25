@@ -13,11 +13,11 @@ I'm katahiromz, a passionate developer always eager to learn new technologies an
 
 ### GitHub Stats
 
-GitHub Stats image is temporarily unavailable.
+![katahiromz's GitHub stats](https://github-readme-stats.vercel.app/api?username=katahiromz&show_icons=true)
 
 ### Top Languages
 
-Top Languages image is temporarily unavailable.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katahiromz&layout=compact)
 
 ### Projects
 
